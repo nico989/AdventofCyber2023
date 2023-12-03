@@ -1,6 +1,7 @@
 # O Data, All Ye Faithful
 
 ## Solution
+- Hit "Start Machine" and connect at http://IP:8888 where the password is "tryhackme".
 - How many packets were captured (looking at the PacketNumber)?
 ```python
 print(df.count())

@@ -1,4 +1,4 @@
-#  'Tis the season for log chopping!
+# 'Tis the season for log chopping!
 
 ## Solution
 - Hit "Start Machine" and open the Split Screen View.

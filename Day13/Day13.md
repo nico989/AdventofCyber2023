@@ -1,4 +1,4 @@
-#  To the Pots, Through the Walls
+# To the Pots, Through the Walls
 
 ## Solution
 - Hit "Start Machine" and open the Split Screen View or connect through SSH.

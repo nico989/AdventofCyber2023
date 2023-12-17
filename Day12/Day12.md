@@ -1,4 +1,4 @@
-#  Sleighing Threats, One Layer at a Time
+# Sleighing Threats, One Layer at a Time
 
 ## Solution
 - Hit "Start Machine" and open the Split Screen View or connect through RDP.

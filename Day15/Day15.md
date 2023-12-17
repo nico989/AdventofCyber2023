@@ -1,4 +1,4 @@
-#  Jingle Bell SPAM: Machine Learning Saves the Day!
+# Jingle Bell SPAM: Machine Learning Saves the Day!
 
 ## Solution
 - Hit "Start Machine" and open the Split Screen View.

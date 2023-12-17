@@ -1,4 +1,4 @@
-#  The Little Machine That Wanted To Learn
+# The Little Machine That Wanted To Learn
 
 ## Solution
 - Hit "Start Machine" and open the Split Screen View.

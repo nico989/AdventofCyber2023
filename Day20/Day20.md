@@ -1,7 +1,7 @@
 # Advent of Frostlings                         
 
 ## Solution
-- Hit "Start Machine". and browse http://IP.
+- Hit "Start Machine" and browse http://IP.
 - What is the handle of the developer responsible for the merge changes?
 <br/>
 Open the merged request and read the comments.

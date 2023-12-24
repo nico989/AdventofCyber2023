@@ -1,4 +1,4 @@
-# Jingle Your SSRF Bells: A Merry Command & Control Hackventure                                               
+# Jingle Your SSRF Bells: A Merry Command & Control Hackventure
 
 ## Solution
 - Hit "Start Machine".

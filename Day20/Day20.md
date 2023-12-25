@@ -1,4 +1,4 @@
-# Advent of Frostlings                         
+# Advent of Frostlings
 
 ## Solution
 - Hit "Start Machine" and browse http://IP.
